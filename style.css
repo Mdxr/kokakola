@@ -17,8 +17,6 @@ html{
 }
 header {
     padding: 2rem 10rem;
-    position: absolute;
-    z-index: 1000;
 }
 .about-nav{
     display: flex;
